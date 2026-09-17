@@ -4,7 +4,7 @@ Unofficial Windows map and distance companion for WARDOGS.
 
 ## Download
 
-**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.18.0.zip)**
+**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.23.0.zip)**
 
 1. Download the ZIP from the release above (about 650 MB).
 2. Right-click it and choose **Extract All**.
@@ -15,7 +15,7 @@ Windows 10/11, 64-bit. The desktop app is currently unsigned.
 
 ## Playing together
 
-Open **Sessions**, enter your name and colour, then **Create session** or **Join with code**. The host copies the invite code for friends. Everyone needs this updated app.
+Open **Squad**, enter your name, then **Create squad** or **Join with code**. The host copies the invite code for friends. Everyone needs this updated app.
 
 Your map shows **YOU** and **TARGET**. Teammates see your name and **YourName's target**, updated from the coordinates you enter. The app does not read your live in-game position.
 
