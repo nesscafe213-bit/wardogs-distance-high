@@ -4,7 +4,7 @@ Unofficial Windows map and distance companion for WARDOGS.
 
 ## Download
 
-**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.17.0.zip)**
+**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.18.0.zip)**
 
 1. Download the ZIP from the release above (about 650 MB).
 2. Right-click it and choose **Extract All**.
@@ -19,15 +19,15 @@ Open **Sessions**, enter your name and colour, then **Create session** or **Join
 
 Your map shows **YOU** and **TARGET**. Teammates see your name and **YourName's target**, updated from the coordinates you enter. The app does not read your live in-game position.
 
-Right-click to share FOBs, AA and extra target markers. The member list shows who is online. Keep the host app open: leaving as host ends the session. Sessions reset if the server restarts and last up to 24 hours. The first connection may take a minute while the free server wakes.
+Right-click to share FOBs or add named custom markers. My AA range follows your entered position. The member list shows who is online. Keep the host app open: leaving as host ends the session. Sessions reset if the server restarts and last up to 24 hours. The first connection may take a minute while the free server wakes.
 
 ## Included
 
 - Bakurani, Ozeti and Zestafona high-resolution maps, zoom and pan.
 - Coordinate paste, target presets, compass bearing and 800 m mortar range.
-- Coloured castle FOBs, estimated 1,000 m AA range, towers and team spawns.
-- Map desaturation and display settings.
-- Invite-code sessions with named player positions, targets and shared markers.
+- Coloured castle FOBs, named persistent markers, estimated 1,000 m AA range around your position, towers and team spawns.
+- Detachable map window for multiple monitors, map desaturation and display settings.
+- Invite-code sessions with named player positions, targets and shared markers. Stable sync updates, version mismatch warnings and a copyable update link.
 
 Personal saved target lists and display preferences remain on your computer.
 
