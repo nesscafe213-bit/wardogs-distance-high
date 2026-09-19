@@ -4,7 +4,7 @@ Unofficial Windows map and distance companion for WARDOGS.
 
 ## Download
 
-**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.33.1.zip)**
+**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.37.1.zip)**
 
 1. Download the ZIP from the release above (about 650 MB).
 2. Right-click it and choose **Extract All**.
@@ -24,7 +24,7 @@ Right-click to share FOBs or add named custom markers. My AA range follows your 
 ## Included
 
 - Bakurani, Ozeti and Zestafona high-resolution maps, zoom and pan.
-- Coordinate paste, target presets, compass bearing and 800 m mortar range.
+- Coordinate paste, target presets, compass bearing and 700 m mortar range.
 - Coloured castle FOBs, named persistent markers, estimated 1,000 m AA range around placed AA units, towers and team spawns.
 - Detachable map window for multiple monitors, map desaturation and display settings.
 - Invite-code sessions with named player positions, targets and shared markers. Stable sync updates, version mismatch warnings and a copyable update link.
