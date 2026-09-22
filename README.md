@@ -1,10 +1,10 @@
-# WARDOGS Distance â€” High resolution
+# WARDOGS Distance — High resolution
 
 Unofficial Windows map and distance companion for WARDOGS.
 
 ## Download
 
-**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.44.7.zip)**
+**[Download the high-resolution app](https://github.com/nesscafe213-bit/wardogs-distance-high/releases/latest/download/WARDOGS-Distance-High-v1.44.8.zip)**
 
 1. Download the ZIP from the release above (about 650 MB).
 2. Right-click it and choose **Extract All**.
